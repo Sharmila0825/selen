@@ -9,5 +9,11 @@ public class Greens {
 		System.out.println("Greens Tambaram");
 
 	}
+	public void Navallur() {
+		System.out.println("Greens Navallur");
+	}
+
+	
+
 
 }
