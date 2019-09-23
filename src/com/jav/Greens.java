@@ -5,5 +5,7 @@ public class Greens {
 	public void velachery() {
 		System.out.println("Greens Velachery");
 	}
-
+	public void Navallur() {
+		System.out.println("Greens Navallur");
+	}
 }
